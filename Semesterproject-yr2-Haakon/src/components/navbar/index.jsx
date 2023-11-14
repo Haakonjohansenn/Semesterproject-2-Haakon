@@ -1,5 +1,5 @@
 import { Link } from "@tanstack/react-router";
-import { NAVIGATION } from "../../lib/constants";
+import { NAVIGATION } from "../../../lib/constants";
 
 export default function Navbar() {
   return (
